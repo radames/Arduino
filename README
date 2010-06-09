@@ -1,0 +1,3 @@
+Com_passo aplicativo arduino para comunicação com uma animação em flash.
+O aplicativo é capaz de ler 16 chaves digitais em 4 portas analógicas.
+Um pad de 4x4 com a intenção de fazer um Monome gigante
